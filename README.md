@@ -17,18 +17,12 @@ Currently exploring:
 ---
 ## 🛠 Technical Skills
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- Dart
-
-### AI / ML
-- TensorFlow / Keras
-- Scikit-Learn
-- ResNet50
-- NLP
-- LangChain
+### Languages                               AI / ML 
+- Python                                    - TensorFlow / Keras
+- JavaScript                                - Scikit-Learn
+- SQL                                       - ResNet50
+- Dart                                      - NLP
+                                            - LangChain
 
 ### Web & App Development
 - React JS
@@ -57,7 +51,7 @@ Created a real-time prediction web app using trained ML models integrated with S
 ## 🎯 Career Goals
 - Contribute to AI-driven product development
 - Work on secure and scalable systems
-- Gain international industry experience in Japan
+- Gain international industry experience 
 - Continue research in AI Security & Cybersecurity
 ---
 ## 📫 Let's Connect
