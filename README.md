@@ -17,12 +17,18 @@ Currently exploring:
 ---
 ## 🛠 Technical Skills
 
-### Languages                               AI / ML 
-- Python                                    - TensorFlow / Keras
-- JavaScript                                - Scikit-Learn
-- SQL                                       - ResNet50
-- Dart                                      - NLP
-                                            - LangChain
+### Languages    
+- Python                                    
+- JavaScript                                
+- SQL                                    
+- Dart
+  
+### AI / ML
+- TensorFlow / Keras
+- Scikit-Learn
+- ResNet50
+- NLP
+- LangChain
 
 ### Web & App Development
 - React JS
