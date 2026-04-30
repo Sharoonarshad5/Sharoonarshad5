@@ -1,6 +1,6 @@
 # Hi, I'm Sharoon Arshad 👋
 
-🎓 Final-Year BS Computer Science Student  
+🎓 BS Computer Science
 💻 Aspiring AI & Software Engineer  
 🌏 Actively seeking Internship Opportunities 
 ---
